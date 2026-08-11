@@ -66,9 +66,7 @@
 ## Featured Projects
 
 **[product-research-agent](https://github.com/rakshay01/product-research-agent)** — Python
-> Add a one-line impact statement here (what it does, what it's built with, why it matters).
-
-> *Pin 2–3 more of your strongest repos below — GitHub → your profile → "Customize your pins." Aim for one RAG/agentic project and one classical ML project alongside this one.*
+Three independent agentic AI applications (Research, Coding, Task Planner) sharing a hand-written ReAct-style orchestration core — built without LangChain or AutoGen to demonstrate first-principles command of agent loops, tool calling, and reasoning traces, powered by the Groq API.
 
 <br>
 
