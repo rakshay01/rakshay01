@@ -19,6 +19,8 @@ jobs:
         with:
           image-file: images/userstats.svg
           # theme: dark   # uncomment for a dark-themed card
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         run: |
